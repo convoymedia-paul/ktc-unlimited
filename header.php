@@ -38,6 +38,7 @@
 	 */
 	wp_head();
 ?>
+<link rel="stylesheet" href="https://use.typekit.net/zxi7klm.css">
 </head>
 
 <body <?php body_class(); ?>>
